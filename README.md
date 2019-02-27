@@ -1,5 +1,5 @@
 # another_CartridgeWriter
-originally made by slaytonrnd, edited by me
+originally made by slaytonrnd, edited by azumi-san
 
 Connect device by USB cable to PC.
 If driver not installed automaticly, run CH341SER.EXE or install manually from CH340G folder.
